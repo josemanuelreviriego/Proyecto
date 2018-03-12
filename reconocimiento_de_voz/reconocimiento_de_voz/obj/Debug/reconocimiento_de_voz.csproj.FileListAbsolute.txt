@@ -1,0 +1,9 @@
+c:\users\valde\documents\visual studio 2015\Projects\reconocimiento_de_voz\reconocimiento_de_voz\bin\Debug\reconocimiento_de_voz.exe.config
+c:\users\valde\documents\visual studio 2015\Projects\reconocimiento_de_voz\reconocimiento_de_voz\bin\Debug\reconocimiento_de_voz.exe
+c:\users\valde\documents\visual studio 2015\Projects\reconocimiento_de_voz\reconocimiento_de_voz\bin\Debug\reconocimiento_de_voz.pdb
+c:\users\valde\documents\visual studio 2015\Projects\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.csprojResolveAssemblyReference.cache
+c:\users\valde\documents\visual studio 2015\Projects\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.Form1.resources
+c:\users\valde\documents\visual studio 2015\Projects\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.Properties.Resources.resources
+c:\users\valde\documents\visual studio 2015\Projects\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.csproj.GenerateResource.Cache
+c:\users\valde\documents\visual studio 2015\Projects\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.exe
+c:\users\valde\documents\visual studio 2015\Projects\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.pdb
