@@ -1,0 +1,10 @@
+C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\bin\Debug\PruebaDeVoz.exe.config
+C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\bin\Debug\PruebaDeVoz.exe
+C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\bin\Debug\PruebaDeVoz.pdb
+C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\obj\Debug\PruebaDeVoz.csprojResolveAssemblyReference.cache
+C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\obj\Debug\PruebaDeVoz.Form1.resources
+C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\obj\Debug\PruebaDeVoz.Properties.Resources.resources
+C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\obj\Debug\PruebaDeVoz.csproj.GenerateResource.Cache
+C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\obj\Debug\PruebaDeVoz.csproj.CoreCompileInputs.cache
+C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\obj\Debug\PruebaDeVoz.exe
+C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\obj\Debug\PruebaDeVoz.pdb
