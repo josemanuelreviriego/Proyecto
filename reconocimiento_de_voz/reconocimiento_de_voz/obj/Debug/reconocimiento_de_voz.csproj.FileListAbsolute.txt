@@ -7,3 +7,15 @@ c:\users\valde\documents\visual studio 2015\Projects\reconocimiento_de_voz\recon
 c:\users\valde\documents\visual studio 2015\Projects\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.csproj.GenerateResource.Cache
 c:\users\valde\documents\visual studio 2015\Projects\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.exe
 c:\users\valde\documents\visual studio 2015\Projects\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.pdb
+C:\Users\jmreviriego\Desktop\Proyecto\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.csprojResolveAssemblyReference.cache
+C:\Users\jmreviriego\Desktop\Proyecto\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.Form1.resources
+C:\Users\jmreviriego\Desktop\Proyecto\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.Properties.Resources.resources
+C:\Users\jmreviriego\Desktop\Proyecto\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.csproj.GenerateResource.Cache
+C:\Users\jmreviriego\Desktop\Proyecto\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.csproj.CoreCompileInputs.cache
+C:\Users\jmreviriego\Desktop\Proyecto\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.exe
+C:\Users\jmreviriego\Desktop\Proyecto\reconocimiento_de_voz\reconocimiento_de_voz\obj\Debug\reconocimiento_de_voz.pdb
+C:\Users\jmreviriego\Desktop\Proyecto\reconocimiento_de_voz\reconocimiento_de_voz\bin\Debug\reconocimiento_de_voz.exe.config
+C:\Users\jmreviriego\Desktop\Proyecto\reconocimiento_de_voz\reconocimiento_de_voz\bin\Debug\reconocimiento_de_voz.exe
+C:\Users\jmreviriego\Desktop\Proyecto\reconocimiento_de_voz\reconocimiento_de_voz\bin\Debug\reconocimiento_de_voz.pdb
+C:\Users\jmreviriego\Desktop\Proyecto\reconocimiento_de_voz\reconocimiento_de_voz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jmreviriego\Desktop\Proyecto\reconocimiento_de_voz\reconocimiento_de_voz\bin\Debug\Newtonsoft.Json.xml

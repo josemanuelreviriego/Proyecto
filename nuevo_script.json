@@ -1,0 +1,27 @@
+
+"1": {
+	"on": true,
+	"bri": 200,
+	"alert": "none",
+	"xy": [
+			0.4043,
+			0.4368
+	],
+	"reachable": true,
+	"sat": 254,
+	"effect": "colorloop"
+	},
+
+"2": {
+	"on": true,
+	"bri": 100,
+	"alert": "none",
+	"xy": [
+			0.3620,
+			0.6594
+	],
+	"reachable": true,
+	"sat": 150,
+	"effect": "none"
+	},
+	
