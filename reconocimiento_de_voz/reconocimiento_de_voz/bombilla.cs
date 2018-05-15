@@ -30,27 +30,129 @@ namespace reconocimiento_de_voz
         //El efecto que queremos que tenga la bombilla o "none" o "colorloop" para que cambie siempre de color
         string Effect;
 
+        public bool on
+        {
+            get
+            {
+                return On;
+            }
+
+            set
+            {
+                On = value;
+            }
+        }
+
+        public int bri
+        {
+            get
+            {
+                return Bri;
+            }
+
+            set
+            {
+                Bri = value;
+            }
+        }
+
+        public string alert
+        {
+            get
+            {
+                return Alert;
+            }
+
+            set
+            {
+                Alert = value;
+            }
+        }
+
+        public List<string> xy
+        {
+            get
+            {
+                return Xy;
+            }
+
+            set
+            {
+                Xy = value;
+            }
+        }
+
+        public bool reachable
+        {
+            get
+            {
+                return Reachable;
+            }
+
+            set
+            {
+                Reachable = value;
+            }
+        }
+
+        public int sat
+        {
+            get
+            {
+                return Sat;
+            }
+
+            set
+            {
+                Sat = value;
+            }
+        }
+
+        public string effect
+        {
+            get
+            {
+                return Effect;
+            }
+
+            set
+            {
+                Effect = value;
+            }
+        }
+
         public bombilla()
         {
         }
 
         public bombilla(bool on, int bri, string alert, List<string> xy, bool reachable, int sat, string effect)
         {
-            this.on = on;
-            this.bri = bri;
-            this.alert = alert;
-            this.xy = xy;
-            this.reachable = reachable;
-            this.sat = sat;
-            this.effect = effect;
+            On = on;
+            Bri = bri;
+            Alert = alert;
+            Xy = xy;
+            Reachable = reachable;
+            Sat = sat;
+            Effect = effect;
         }
 
-        public bool on { get => On; set => On = value; }
-        public int bri { get => Bri; set => Bri = value; }
-        public string alert { get => Alert; set => Alert = value; }
-        public List<string> xy { get => Xy; set => Xy = value; }
-        public bool reachable { get => Reachable; set => Reachable = value; }
-        public int sat { get => Sat; set => Sat = value; }
-        public string effect { get => Effect; set => Effect = value; }        
+        //public bombilla(bool on, int bri, string alert, List<string> xy, bool reachable, int sat, string effect)
+        //{
+        //    this.on = on;
+        //    this.bri = bri;
+        //    this.alert = alert;
+        //    this.xy = xy;
+        //    this.reachable = reachable;
+        //    this.sat = sat;
+        //    this.effect = effect;
+        //}
+
+        //public bool on { get => On; set => On = value; }
+        //public int bri { get => Bri; set => Bri = value; }
+        //public string alert { get => Alert; set => Alert = value; }
+        //public List<string> xy { get => Xy; set => Xy = value; }
+        //public bool reachable { get => Reachable; set => Reachable = value; }
+        //public int sat { get => Sat; set => Sat = value; }
+        //public string effect { get => Effect; set => Effect = value; }        
     }
 }

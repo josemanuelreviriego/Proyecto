@@ -8,3 +8,6 @@ C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\obj\Debug\PruebaDeVoz.
 C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\obj\Debug\PruebaDeVoz.csproj.CoreCompileInputs.cache
 C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\obj\Debug\PruebaDeVoz.exe
 C:\Users\jmreviriego\source\repos\PruebaDeVoz\PruebaDeVoz\obj\Debug\PruebaDeVoz.pdb
+E:\GitHub\Proyecto\PruebaDeVoz\PruebaDeVoz\bin\Debug\PruebaDeVoz.exe.config
+E:\GitHub\Proyecto\PruebaDeVoz\PruebaDeVoz\obj\Debug\PruebaDeVoz.exe
+E:\GitHub\Proyecto\PruebaDeVoz\PruebaDeVoz\obj\Debug\PruebaDeVoz.pdb
