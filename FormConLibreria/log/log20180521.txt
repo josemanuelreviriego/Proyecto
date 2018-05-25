@@ -1,0 +1,3 @@
+FormFinal.Form1 20180521 10:12:42
+conexion - Se ha terminado la conexión: Error inesperado de recepción.
+

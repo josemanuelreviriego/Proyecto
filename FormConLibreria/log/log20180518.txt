@@ -1,0 +1,42 @@
+FormFinal.Form1 12:59:17
+btnEmpezar_Click - No se encuentra el elemento de datos solicitado, como una clave o un valor de datos.
+
+FormFinal.Form1 12:59:23
+btnEmpezar_Click - No se encuentra el elemento de datos solicitado, como una clave o un valor de datos.
+
+FormFinal.Form1 14:01:49
+btnEmpezar_Click - No se encuentra el elemento de datos solicitado, como una clave o un valor de datos.
+
+FormFinal.Form1 14:02:20
+btnEmpezar_Click - No se encuentra el elemento de datos solicitado, como una clave o un valor de datos.
+
+FormFinal.Form1 18:29:16
+conexion - Unexpected character encountered while parsing value: [. Path '', line 1, position 1.
+
+FormFinal.Form1 18:29:37
+conexion - Unexpected character encountered while parsing value: [. Path '', line 1, position 1.
+
+FormFinal.Form1 18:29:54
+conexion - Unexpected character encountered while parsing value: [. Path '', line 1, position 1.
+
+FormFinal.Form1 18:29:54
+conexion - Unexpected character encountered while parsing value: [. Path '', line 1, position 1.
+
+FormFinal.Form1 18:30:07
+conexion - Unexpected character encountered while parsing value: [. Path '', line 1, position 1.
+
+FormFinal.Form1 18:30:08
+conexion - Unexpected character encountered while parsing value: [. Path '', line 1, position 1.
+
+FormFinal.Form1 18:32:02
+conexion - Unexpected character encountered while parsing value: [. Path '', line 1, position 1.
+
+FormFinal.Form1 18:34:30
+conexion - Unexpected character encountered while parsing value: [. Path '', line 1, position 1.
+
+FormFinal.Form1 18:35:21
+conexion - Unexpected character encountered while parsing value: [. Path '', line 1, position 1.
+
+FormFinal.Form1 18:36:43
+conexion - Unexpected character encountered while parsing value: [. Path '', line 1, position 1.
+

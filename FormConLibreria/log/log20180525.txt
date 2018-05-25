@@ -1,0 +1,6 @@
+FormFinal.Form1 20180525 10:10:10
+btnEmpezar_Click - No se encuentra el elemento de datos solicitado, como una clave o un valor de datos.
+
+FormFinal.Form1 20180525 10:51:04
+btnEmpezar_Click - No se encuentra el elemento de datos solicitado, como una clave o un valor de datos.
+
